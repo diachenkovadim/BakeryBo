@@ -1,0 +1,100 @@
+.bg-Winn_D {
+    width: 159px; height: 24px;
+    background: url('css_sprites.png') -10px -254px;
+}
+
+x
+.bg-Walmart {
+    width: 159px; height: 38px;
+    background: url('css_sprites.png') -10px -90px;
+}
+
+x
+.bg-Walgreens {
+    width: 158px; height: 35px;
+    background: url('css_sprites.png') -189px -68px;
+}
+
+x
+.bg-Publix {
+    width: 160px; height: 36px;
+    background: url('css_sprites.png') -10px -148px;
+}
+
+x
+.bg-Meijer {
+    width: 159px; height: 60px;
+    background: url('css_sprites.png') -10px -10px;
+}
+
+x
+.bg-Fred_Meyer {
+    width: 158px; height: 30px;
+    background: url('css_sprites.png') -190px -148px;
+}
+
+x
+.bg-Whole_F {
+    width: 159px; height: 38px;
+    background: url('css_sprites.png') -189px -10px;
+}
+
+x
+.bg-Safeway {
+    width: 160px; height: 30px;
+    background: url('css_sprites.png') -10px -204px;
+}
+
+x
+.bg-Seeds_sprite {
+    width: 60px; height: 60px;
+    background: url('css_sprites.png') -368px -91px;
+}
+
+x
+.bg-Calendar_sprite {
+    width: 55px; height: 55px;
+    background: url('css_sprites.png') -10px -369px;
+}
+
+x
+.bg-Cart_sprite {
+    width: 61px; height: 51px;
+    background: url('css_sprites.png') -10px -298px;
+}
+
+x
+.bg-Bread_icon_sprite {
+    width: 60px; height: 30px;
+    background: url('css_sprites.png') -368px -248px;
+}
+
+x
+.bg-Recycable_sprite {
+    width: 61px; height: 57px;
+    background: url('css_sprites.png') -368px -171px;
+}
+
+x
+.bg-Rolling_spin_icon_sprite {
+    width: 61px; height: 61px;
+    background: url('css_sprites.png') -368px -10px;
+}
+
+x
+.bg-FB_icon_sprite {
+    width: 26px; height: 26px;
+    background: url('css_sprites.png') -284px -204px;
+}
+
+x
+.bg-Insta_icon_sprite {
+    width: 27px; height: 26px;
+    background: url('css_sprites.png') -190px -204px;
+}
+
+x
+.bg-Twitter_icon_sprite {
+    width: 27px; height: 26px;
+    background: url('css_sprites.png') -237px -204px;
+}
